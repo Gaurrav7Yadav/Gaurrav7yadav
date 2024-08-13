@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gauravyadav472) 
-    <img height="175em" src="https://leetcode.card.workers.dev/?username=BROVER&theme=dark" alt="BROVER"/>
+
+## <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>Leetcode:
+<img height="175em" src="https://leetcode.card.workers.dev/?username=BROVER&theme=dark" alt="BROVER"/>
 
 
 # 💻 Tech Stack:
