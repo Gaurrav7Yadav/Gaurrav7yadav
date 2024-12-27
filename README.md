@@ -4,13 +4,15 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gauravyadav472) 
+  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>Leetcode:
-<img height="175em" src="https://leetcode.card.workers.dev/?username=BROVER&theme=dark" alt="BROVER"/>
+<img src="https://leetcard.jacoblin.cool/BROVER?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats" style="max-width: 500px;"/>
+
 
 
 # 💻 Tech Stack:
@@ -25,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gaurrav7yadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
