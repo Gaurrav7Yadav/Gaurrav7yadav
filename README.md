@@ -10,8 +10,18 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>Leetcode:
-<img src="https://leetcard.jacoblin.cool/BROVER?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats" style="max-width: 500px;"/>
+
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+   <a href="https://leetcode.com/u/BROVER/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/BROVER/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/BROVER/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+
+</p>
+<p align="center">
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/BROVER?theme=dark&font=Sunflower&ext=heatmap" alt="Leetcode Heatmap" />
+</p>
 
 
 
