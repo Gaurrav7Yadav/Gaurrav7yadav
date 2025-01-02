@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django CRM <br>🌱 I’m currently learning Django<br>💬 Ask me about Python<br>⚡ Fun fact "I love Reading"
+🔭 I’m currently working on a research paper regarding Deepfake Detection <br>🌱 I’m currently learning Django<br>💬 Ask me about Python<br>⚡ Fun fact "I love Reading"
 
 
 ## 🌐 Socials:
