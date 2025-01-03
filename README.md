@@ -2,8 +2,7 @@
 🔭 I’m currently working on a research paper regarding Deepfake Detection <br>🌱 I’m currently learning Django<br>💬 Ask me about Python<br>⚡ Fun fact "I love Reading"
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gauravyadav472) 
+## 🌐 Socials: <span>&nbsp;&nbsp;&nbsp;</span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gauravyadav472)
   
 
 <div align="center">
