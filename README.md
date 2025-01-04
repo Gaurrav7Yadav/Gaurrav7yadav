@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a research paper regarding Deepfake Detection <br>🌱 I’m currently learning Django<br>💬 Ask me about Python<br>⚡ Fun fact "I love Reading"
 
+
 ## 🌐 Socials: <span>&nbsp;&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/gauravyadav472/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
