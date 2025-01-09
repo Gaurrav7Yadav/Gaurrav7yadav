@@ -7,6 +7,7 @@
 ## 🌐 Socials: <span>&nbsp;&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/gauravyadav472/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
